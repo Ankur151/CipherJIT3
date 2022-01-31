@@ -743,7 +743,7 @@
 
 
 //// Java implementation of ShellSort
-//class ShellSort
+//class sorting
 //{
 //	/* An utility function to print array of size n*/
 //	static void printArray(int arr[])
@@ -794,7 +794,7 @@
 //		System.out.println("Array before sorting");
 //		printArray(arr);
 //
-//		ShellSort ob = new ShellSort();
+//		sorting ob = new sorting();
 //		ob.sort(arr);
 //
 //		System.out.println("Array after sorting");
